@@ -1,0 +1,21 @@
+{
+  "name": "dejavue",
+  "authors": [
+    "(Porsenjit Manna <developer.prosenjit@gmail.com>)"
+  ],
+  "description": "dejavue fonts",
+  "main": "",
+  "keywords": [
+    "dejavue",
+    "fonts"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
